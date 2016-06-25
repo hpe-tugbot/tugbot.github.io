@@ -12,7 +12,7 @@ html,body {
 }
 /*-- header --*/
 .header-bg{
-	background: url(../images/container_HPE.jpeg) no-repeat 0px 0px;
+	background: url(../images/Container_HPE.jpeg) no-repeat 0px 0px;
 	background-size: cover;
 	min-height: 700px;
 	position:relative;
@@ -199,7 +199,7 @@ ul.button li a:hover{
 	color:#808080;
 }
 .creative{
-	background:url(../images/code_icon_108_outline.png) no-repeat 0px 0px;
+	background:url(../images/Code_icon_108_outline.png) no-repeat 0px 0px;
 	width:108px;
 	height:108px;
 	margin:0 auto;
@@ -217,7 +217,7 @@ ul.button li a:hover{
 	margin:0 auto;
 }
 .service-left:hover div.creative{
-	background: url(../images/code_icon_108_solid.png) no-repeat 0px 0px;
+	background: url(../images/Code_icon_108_solid.png) no-repeat 0px 0px;
 }
 .service-middle:hover div.skills{
 	background: url(../images/Octocat_icon_108_solid.png) no-repeat 0px 0px;
