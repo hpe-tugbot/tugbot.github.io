@@ -8,5 +8,5 @@ Tugbot - Event-driven testing for Docker clusters
 
 1. Links to content from projects section - done
 2. DNS record change to point to tugbot.io from @Alexei
-3. Attach SEND button to PHPMailer service
-4. Dockerize with NGINX
+3. Attach SEND button to send message to Slack channel - @Alexei
+4. Dockerize with NGINX to make it run anywhere
